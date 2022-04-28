@@ -4,6 +4,10 @@ Hello World PWA is a multi-language "Hello, World!" Progressive Web App, with ra
 
 ![Lighthouse Score: 100](https://img.shields.io/badge/lighthouse-100-brightgreen.svg)
 
+### Moved to Glitch: https://glitch.com/~random-hello-world-pwa
+
+<br>  
+
 | [![Random Hello World PWA, English, Windows 10 screenshot](repo-assets/screenshot-random-hello-world-pwa-english-win10.png)](repo-assets/screenshot-random-hello-world-pwa-english-win10.png) | [![Random Hello World PWA Romanian screenshot](repo-assets/screenshot-random-hello-world-pwa-romanian-win10.png)](repo-assets/screenshot-random-hello-world-pwa-romanian-win10.png) |
 | ------------- | ------------ |
 | [![Random Hello World PWA, English, Android screenshot](repo-assets/screenshot-random-hello-world-pwa-english-android.png)](repo-assets/screenshot-random-hello-world-pwa-english-android.png) | [![Random Hello World PWA, Norwegian, Android screenshot](repo-assets/screenshot-random-hello-world-pwa-norwegian-android.png)](repo-assets/screenshot-random-hello-world-pwa-norwegian-android.png) |
